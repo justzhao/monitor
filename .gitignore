@@ -5,6 +5,6 @@
 target/
 bin/
 *.iml
-.idea/git
+.idea/
 target/
 
