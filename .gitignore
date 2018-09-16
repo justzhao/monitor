@@ -7,4 +7,5 @@ bin/
 *.iml
 .idea/
 target/
+.idea/
 
